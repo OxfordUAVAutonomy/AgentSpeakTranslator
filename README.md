@@ -93,3 +93,6 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Note that this license only applies to the actual translator code as provided in the `src` directory. Files in the `test` come with their own, potentially different license.
+
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18572.svg)](http://dx.doi.org/10.5281/zenodo.18572)
