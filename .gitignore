@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# Custom for AgentSpeakTranslator
+*~
+.svn
+src/agentspeak
+
